@@ -13,7 +13,7 @@ Sentinel Watchlist: Imported a geoip-summarized.csv file to enrich logs with geo
 Attack Map: Created a custom Sentinel Workbook with a JSON-based visualization to map source locations of IP-based intrusion attempts.
 
 Key Results
-
+![Image](https://github.com/user-attachments/assets/276e906b-7152-49fb-92f4-7379ba33f3ea)
 Captured over 50,000+ malicious requests including brute-force login attempts and automated scanning.
 Used Kusto Query Language (KQL) to filter events (Event ID 4625) and correlate them with geo-IP data.
 Visualized live attack trends on an interactive map to understand attacker behavior patterns.
